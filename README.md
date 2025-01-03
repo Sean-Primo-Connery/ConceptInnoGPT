@@ -9,6 +9,7 @@ This tool, mentioned in the paper "A Conceptual Solution Generation Framework In
 1. Due to the file size limitations on GitHub, you need to download the data from [this Google Drive link](https://drive.google.com/drive/folders/10IR0MYWtlYs8dIo_vx45q1O-OPMUo439?usp=share_link) and store it in the "data" folder
 2. Log in using the username "username" and the password "password"
 3. We provide an API key (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) for testing purposes; however, its long-term validity is not guaranteed
+4. Launch the application using:`streamlit run App_v1.py`
 
 ## Essential settings
 
